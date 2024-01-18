@@ -13,6 +13,11 @@ iNotebook is a web application that allows users to store, manage, and access no
 - Tagging notes with custom tags
 - View note updates by chronological timeline
 
+## Built with
+- Node.js - Runtime environment
+- Express - Web framework
+- MongoDB - Database
+- React - Client library
 
 ## Demo
 
@@ -39,11 +44,7 @@ iNotebook is a web application that allows users to store, manage, and access no
 
 
 
-## Built with
-- Node.js - Runtime environment
-- Express - Web framework
-- MongoDB - Database
-- React - Client library
+
 
 
 ## Run Locally
@@ -66,10 +67,10 @@ Install dependencies
   npm install
 ```
 
-Start the server
+Start the app
 
 ```bash
-  npm run start
+  npm run both
 ```
 
 
