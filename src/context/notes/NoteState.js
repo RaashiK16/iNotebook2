@@ -59,7 +59,7 @@ const NoteState = (props) => {
         }
     ]
 
-    const host = "http://localhost:5000";
+    const host = "https://inotebook-backend-ochre.vercel.app/";
 
     const [notes, setnotes] = useState(notesInitial);
 
